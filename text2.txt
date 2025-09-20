@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 created from gitbranch1
+=======
+hi from gitbranch1
+>>>>>>> gitbranch1
